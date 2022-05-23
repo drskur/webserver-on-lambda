@@ -1,14 +1,9 @@
-# Welcome to your CDK TypeScript project
+# Deploy Webserver on AWS LAMBDA
 
-This is a blank project for CDK development with TypeScript.
+This is a sample project for deploy webserver on AWS Lambda.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+## Commands
 
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `cdk deploy`      deploy this stack to your default AWS account/region
-* `cdk diff`        compare deployed stack with current state
-* `cdk synth`       emits the synthesized CloudFormation template
+## Result
+### Go - Fiber
+![Go - Fiber](doc/hello-go-fiber.png)
